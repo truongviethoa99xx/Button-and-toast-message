@@ -15,7 +15,7 @@ body {
 body > div {
     margin: auto;
 }
-
+/* button */
 .btn {
     display: inline-block;
     text-decoration: none;
@@ -39,7 +39,7 @@ body > div {
     margin-left: 12px;
 }
 
-.btn--suscess {
+.btn--success {
     background-color: #4CAF50;
 }
 
@@ -67,4 +67,4 @@ body > div {
 .btn-size-l {
     padding: 16px 52px;
 }
-
+/* end button */
